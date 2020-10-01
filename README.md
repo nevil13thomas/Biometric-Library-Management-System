@@ -1,1 +1,1 @@
-# Biometric-Library-Management-System
+# Biometric-Library-Management-System:Mini Project
